@@ -1,2 +1,0 @@
-E:/Linkific_Tasks/basic_ui/build/.cxx/debug/p5o262q6/arm64-v8a/CMakeFiles/edit_cache.dir
-E:/Linkific_Tasks/basic_ui/build/.cxx/debug/p5o262q6/arm64-v8a/CMakeFiles/rebuild_cache.dir
