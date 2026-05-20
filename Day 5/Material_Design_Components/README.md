@@ -51,9 +51,7 @@ lib/
 	models/                  # data models used across the app
 		(e.g. user.dart, item.dart)
 ```
-# material_design_components_app
 
-A new Flutter project.
 
 ## Getting Started
 
