@@ -32,6 +32,25 @@ Files of interest
 - `lib/screens/cards_screen.dart` - cards & lists
 - `lib/screens/forms_screen.dart` - forms and validation
 - `lib/screens/dialogs_screen.dart` - dialogs and snackbars
+ 
+lib project structure
+
+```text
+lib/
+	main.dart                # app entry and route definitions
+	screens/                 # per-screen UI pages
+		home_screen.dart
+		buttons_screen.dart
+		cards_screen.dart
+		forms_screen.dart
+		dialogs_screen.dart
+	widgets/                 # small reusable widgets/components
+		(e.g. custom button, card item)
+	themes/                  # app theming and colors
+		theme.dart
+	models/                  # data models used across the app
+		(e.g. user.dart, item.dart)
+```
 # material_design_components_app
 
 A new Flutter project.
