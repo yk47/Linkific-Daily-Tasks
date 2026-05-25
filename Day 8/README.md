@@ -324,6 +324,6 @@ screenshots/
 
 **Yash Karnik**
 
-Cybersecurity Enthusiast | Flutter Developer | MERN Stack Developer
+ Flutter Developer 
 
 GitHub: https://github.com/yk47
