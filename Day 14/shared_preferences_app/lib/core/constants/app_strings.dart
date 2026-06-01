@@ -1,0 +1,68 @@
+class AppStrings {
+  static const Map<String, Map<String, String>> localized = {
+    'en': {
+      'appTitle': 'Shared Preferences Lab',
+      'heroTitle': 'Persistent app settings',
+      'heroSubtitle':
+          'Theme, language, login state, notification settings, font size, and topic choices are saved locally.',
+      'launches': 'Launch count',
+      'currentUser': 'Current user',
+      'loggedIn': 'Logged in',
+      'loggedOut': 'Logged out',
+      'preferences': 'Preferences',
+      'theme': 'Theme',
+      'darkMode': 'Dark mode',
+      'language': 'Language',
+      'notifications': 'Notifications',
+      'fontSize': 'Font size',
+      'profile': 'Login state',
+      'displayName': 'Display name',
+      'saveProfile': 'Save profile',
+      'login': 'Log in',
+      'logout': 'Log out',
+      'rememberLogin': 'Remember login state',
+      'forgetSavedLogin': 'Forget saved login',
+      'topics': 'Favorite topics',
+      'clearAll': 'Clear all data',
+      'defaultLanguage': 'English',
+      'secondaryLanguage': 'Spanish',
+      'guest': 'Guest',
+      'storagePatterns': 'Storage patterns used',
+      'patternsBody':
+          'setBool for switches, setString for names, setDouble for slider values, setInt for launch counts, setStringList for selections, remove for targeted cleanup, and clear for a full reset.',
+    },
+    'es': {
+      'appTitle': 'Laboratorio de Shared Preferences',
+      'heroTitle': 'Ajustes persistentes',
+      'heroSubtitle':
+          'Tema, idioma, estado de sesión, notificaciones, tamaño de fuente y temas favoritos se guardan localmente.',
+      'launches': 'Veces iniciada',
+      'currentUser': 'Usuario actual',
+      'loggedIn': 'Sesión iniciada',
+      'loggedOut': 'Sesión cerrada',
+      'preferences': 'Preferencias',
+      'theme': 'Tema',
+      'darkMode': 'Modo oscuro',
+      'language': 'Idioma',
+      'notifications': 'Notificaciones',
+      'fontSize': 'Tamaño de fuente',
+      'profile': 'Estado de sesión',
+      'displayName': 'Nombre visible',
+      'saveProfile': 'Guardar perfil',
+      'login': 'Iniciar sesión',
+      'logout': 'Cerrar sesión',
+      'rememberLogin': 'Recordar sesión',
+      'forgetSavedLogin': 'Borrar sesión guardada',
+      'topics': 'Temas favoritos',
+      'clearAll': 'Borrar todo',
+      'defaultLanguage': 'Inglés',
+      'secondaryLanguage': 'Español',
+      'guest': 'Invitado',
+      'storagePatterns': 'Patrones de almacenamiento',
+      'patternsBody':
+          'setBool para interruptores, setString para nombres, setDouble para valores deslizantes, setInt para contadores, setStringList para selecciones, remove para limpieza puntual y clear para un reinicio total.',
+    },
+  };
+
+  const AppStrings._();
+}
