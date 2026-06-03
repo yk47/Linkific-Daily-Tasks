@@ -2,13 +2,7 @@
 
 A fully functional cross-platform mobile authentication app built with **Flutter** and **Firebase**. Supports Email/Password and Google Sign-In with real-time auth state management and a polished dark-themed UI.
 
----
 
-## 📱 Screenshots
-
-| Login | Register | Home / Profile |
-|-------|----------|----------------|
-| Dark UI with gradient Sign In button | Step-indicator form with confirm password | Avatar, stats, profile info cards |
 
 ---
 
