@@ -187,10 +187,6 @@ dev_dependencies:
 
 ---
 
-## 📄 License
 
-This project is for educational purposes. See [LICENSE](LICENSE) for details.
-
----
 
 > Built with ❤️ using Flutter & Firebase
