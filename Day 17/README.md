@@ -317,6 +317,4 @@ Named routes are defined in `AppRoutes`:
 
 ---
 
-## 📄 License
 
-This project is for educational purposes. Feel free to use it as a reference or starting point for your own Supabase + Flutter applications.
