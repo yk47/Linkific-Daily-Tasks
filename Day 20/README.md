@@ -220,6 +220,4 @@ detailsAsync.when(
 
 ---
 
-## 📄 License
 
-This project is for academic and portfolio use only. Not intended for commercial distribution.
