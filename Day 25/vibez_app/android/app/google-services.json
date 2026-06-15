@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702951163133",
+    "firebase_url": "https://vibez-367e5-default-rtdb.firebaseio.com",
+    "project_id": "vibez-367e5",
+    "storage_bucket": "vibez-367e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702951163133:android:fa769c75190db3d17b6a94",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702951163133-kt9i9higcl3nop81gflrsj5tg6dvf33u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "f558d5a92f3cfbb9f1ae8341169daf8c4ebaa91e"
+          }
+        },
+        {
+          "client_id": "702951163133-i6lqrn571mssn4nevesjdi2d29iekshr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlglDs8Ju1pGzEOUN7wZFL0qxHHSzbWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702951163133-i6lqrn571mssn4nevesjdi2d29iekshr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
